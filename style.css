@@ -1,3 +1,14 @@
 body {
-    backgroud: #ee24a0
+    backgroud: #FFFFFF
 }
+
+.titulo-principal {
+    text-align: center;
+    font-size: 20px;
+    color: #d405b1fa
+}
+
+p {
+    font-size: 18px
+}
+
